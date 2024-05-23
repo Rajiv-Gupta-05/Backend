@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend from which you learnt so many things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajiv-Gupta-05/Backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Rajiv Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajiv-Gupta-05/Backend/issues"
+  },
+  "homepage": "https://github.com/Rajiv-Gupta-05/Backend#readme"
+}
